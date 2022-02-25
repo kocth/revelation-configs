@@ -1,0 +1,16 @@
+[
+  {
+    "match": "(\\.|^)topito\\.com$",
+    "style": {
+      "display": {
+        "#didomi-popup" : "none"
+      },
+      "overflow" : {
+        "body.didomi-popup-open" : "unset"
+      },
+      "position": {
+        "body.didomi-popup-open" : "inherit"
+      }
+    }
+  }
+]
