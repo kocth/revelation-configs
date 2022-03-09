@@ -12,5 +12,16 @@
         "body.didomi-popup-open" : "inherit"
       }
     }
+  },
+  {
+    "match": "(\\.|^)instagram\\.com$",
+    "style": {
+      "display": {
+        "div[role=\"presentation\"])" : "none"
+      },
+      "overflow" : {
+        "body" : "unset"
+      }
+    }
   }
 ]
