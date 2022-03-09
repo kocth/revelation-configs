@@ -17,7 +17,7 @@
     "match": "(\\.|^)instagram\\.com$",
     "style": {
       "display": {
-        "div[role=\"presentation\"])" : "none"
+        "div[role=\"presentation\"]" : "none"
       },
       "overflow" : {
         "body" : "unset"
